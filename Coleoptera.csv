@@ -1,4 +1,4 @@
-species,Phylum,Class,Order,Family,source,specimens barcoded,specimens,public BINs,verified by,status,BOLD taxid
+species,Phylum,Class,Order,Family,source,specimens barcoded,specimens,public BINs,verified by,status,BOLD taxid,1,2,3,4,5
 Abacetus aeneus,Arthropoda,Insecta,Coleoptera,Carabidae,FE,,,,,gap,
 Abacetus salzmanni,Arthropoda,Insecta,Coleoptera,Carabidae,BOLD:FE,3,4,1,,,https://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=468971,
 Abax arerae,Arthropoda,Insecta,Coleoptera,Carabidae,FE,,,,,gap,
