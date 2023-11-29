@@ -1,4 +1,4 @@
-species,Order,Family,source,specimens barcoded,specimens,public BINs,verified by,status,BOLD taxid
+species,Phylum,Class,Order,Family,source,speciemens barcoded,speciemens,public BINs,verified by,status,BOLD taxid
 Aaptos aaptos,Porifera,Demospongiae,Suberitida,Suberitidae,WORMS,1,1,1,WORMS,,https://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=240038 
 Aaptos papillata,Porifera,Demospongiae,Suberitida,Suberitidae,BOLD:WORMS,2,2,1,WORMS,,https://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=240051 
 Protosuberites rugosus,Porifera,Demospongiae,Suberitida,Suberitidae,WORMS,,,,WORMS,gap,
